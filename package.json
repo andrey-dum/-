@@ -1,5 +1,5 @@
 {
-  "name": "ping-monitor",
+  "name": "rtask",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
